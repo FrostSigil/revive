@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "instant-revive",
+    "description": "Makes your revive instant",
+    "options": {
+        "niceName": "Instant-Revive",
+        "guiName": "Instant-Revive",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/revive/master/"]
+}
